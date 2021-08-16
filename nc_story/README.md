@@ -5,4 +5,5 @@
 故事的主要角色分别是 @wyapx 和 @JoinChang ，希望他们不要打我（   
 
 # 目录
- - [黎明](./1_The_Beginning.md)
+ - [火光](./1_The_Beginning.md)
+ - [你好，我叫麦克！](/2_Pick_Me.md)
