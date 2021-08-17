@@ -7,3 +7,4 @@
 # 目录
  - [火光](./1_The_Beginning.md)
  - [你好，我叫麦克！](./2_Pick_Me.md)
+ - [新的起点](./3_New_Beginning.md)
