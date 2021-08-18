@@ -8,3 +8,4 @@
  - [火光](./1_The_Beginning.md)
  - [你好，我叫麦克！](./2_Pick_Me.md)
  - [接纳](./3_New_Beginning.md)
+ - [笼中鸟](./4_Bird_In_Cage.md)
